@@ -1,11 +1,13 @@
-# Codex Twin 官方下载
+# Codex Twin 下载
 
-AI 工作与网络连接，一个桌面完成。
+Codex Twin 0.6.0（统一安装包更新）
 
-- [官网下载](https://codex.xhdong.qzz.io/#download)
-- [所有安装包](https://github.com/haidongxu2000/codex-twin-downloads/releases)
-- [推广账户](https://codex.xhdong.qzz.io/account)
+- 四个平台共用统一安装包，不再为每位推广者生成专属包。
+- 从官网或推广链接下载会自动建立下载账号并记录推广来源；安装后在原下载浏览器确认一次即可登录，无需填写邀请码。绑定后仅管理员可解绑。更换浏览器或清除记录时请联系管理员恢复。
+- 自动切换模型时仅显示原因和目标模型；压缩续跑上下文并保留任务、附件和进度。
+- 增加任务未确认完成的问题提示，AI 雷达模型名称标注平台提供商。
 
-提供 Windows x64、macOS Apple Silicon ARM64、macOS Intel x64 和 Linux x64 安装包。
-
-本仓库只发布安装包与版本说明，不包含 Codex Twin 应用源码。GitHub 自动生成的 Source code 压缩包仅包含本下载仓库的说明文件。软件为专有商业软件；第三方组件许可证随安装包提供。
+同名旧 0.6.0 安装包已替换，请重新下载并核对 SHA256SUMS.txt。
+官网：https://codex.xhdong.qzz.io/
+本仓库仅发布安装包和下载说明；应用源码保存在私有仓库。GitHub 自动生成的源码归档仅包含下载说明。
+安装包未配置发布者签名，操作系统可能显示未知发布者提示。
