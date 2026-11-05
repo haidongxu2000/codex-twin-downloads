@@ -1,22 +1,22 @@
 <!-- BEGIN codex-downloads-current-release -->
 # Codex Twin 下载
 
-当前正式版本：**0.6.4-software-free.20261102.16**（2026-11-02）。Windows、macOS Apple Silicon、macOS Intel、Linux 使用同一产品版本号。
+当前正式版本：**0.6.5-software-free.20261104.2**。国际版和国内版使用独立安装目录和数据，均提供四个平台版本。
 
-- 软件启动后自动测试一次节点延时和速度。
-- 默认不勾选「自动测试（每10分钟）」；仍可手动测试或自行开启定时测试。
-- Windows 测试版已通过用户本机验收；各平台完成打包审计，macOS/Linux 尚未新增真机体验验收。
-
-| 平台 | 官网下载 | GitHub 下载 | SHA-256 |
+| 产品与平台 | 官网下载 | GitHub 下载 | SHA-256 |
 | --- | --- | --- | --- |
-| Windows x64 | [官网](https://dl.codextwin.com/downloads/Codex-Twin-0.6.4-software-free.20261102.16-win-x64.exe) | [GitHub](https://github.com/haidongxu2000/codex-twin-downloads/releases/download/v0.6.4-software-free.20261102.16/Codex-Twin-0.6.4-software-free.20261102.16-win-x64.exe) | `ed2713aa3e25000bca2eabd9020d5f645ddcd7b64ab6454469f67202e64f7c34` |
-| macOS Apple Silicon | [官网](https://dl.codextwin.com/downloads/Codex-Twin-0.6.4-software-free.20261102.16-mac-arm64.dmg) | [GitHub](https://github.com/haidongxu2000/codex-twin-downloads/releases/download/v0.6.4-software-free.20261102.16/Codex-Twin-0.6.4-software-free.20261102.16-mac-arm64.dmg) | `707c634298af88e61b05fd65c443def89ab81efd69a712ff7fd508ef4f2ef1fc` |
-| macOS Intel | [官网](https://dl.codextwin.com/downloads/Codex-Twin-0.6.4-software-free.20261102.16-mac-x64.dmg) | [GitHub](https://github.com/haidongxu2000/codex-twin-downloads/releases/download/v0.6.4-software-free.20261102.16/Codex-Twin-0.6.4-software-free.20261102.16-mac-x64.dmg) | `0c999451043d70d036cdfb98ed5b9dd95834dae4230ad1e5f3005f18f213d1cb` |
-| Linux x64 | [官网](https://dl.codextwin.com/downloads/Codex-Twin-0.6.4-software-free.20261102.16-linux-x86_64.AppImage) | [GitHub](https://github.com/haidongxu2000/codex-twin-downloads/releases/download/v0.6.4-software-free.20261102.16/Codex-Twin-0.6.4-software-free.20261102.16-linux-x86_64.AppImage) | `31521d874c23e72685a3c014c4c38c38e9e2d7740cd2db2934dfc3248d1ba4c9` |
+| Codex Twin · win-x64 | [官网下载](https://dl.codextwin.com/downloads/Codex-Twin-0.6.5-software-free.20261104.2-win-x64.exe) | [GitHub 下载](https://github.com/haidongxu2000/codex-twin-downloads/releases/download/v0.6.5-software-free.20261104.2/Codex-Twin-0.6.5-software-free.20261104.2-win-x64.exe) | `7c6a99a789cb57c6ecefc9e7c73af6febc5bbef76354db2dece0f4fbf4365d22` |
+| Codex Twin · mac-arm64 | [官网下载](https://dl.codextwin.com/downloads/Codex-Twin-0.6.5-software-free.20261104.2-mac-arm64.dmg) | [GitHub 下载](https://github.com/haidongxu2000/codex-twin-downloads/releases/download/v0.6.5-software-free.20261104.2/Codex-Twin-0.6.5-software-free.20261104.2-mac-arm64.dmg) | `a5e297473307991bdba7ae1d3da73fd056790e31a734bc9fbf8d68e1666cea76` |
+| Codex Twin · mac-x64 | [官网下载](https://dl.codextwin.com/downloads/Codex-Twin-0.6.5-software-free.20261104.2-mac-x64.dmg) | [GitHub 下载](https://github.com/haidongxu2000/codex-twin-downloads/releases/download/v0.6.5-software-free.20261104.2/Codex-Twin-0.6.5-software-free.20261104.2-mac-x64.dmg) | `5d3c34774e1fdf4e09bacfdb4f99cf70c708358b11f36953a49654514ed38436` |
+| Codex Twin · linux-x64 | [官网下载](https://dl.codextwin.com/downloads/Codex-Twin-0.6.5-software-free.20261104.2-linux-x86_64.AppImage) | [GitHub 下载](https://github.com/haidongxu2000/codex-twin-downloads/releases/download/v0.6.5-software-free.20261104.2/Codex-Twin-0.6.5-software-free.20261104.2-linux-x86_64.AppImage) | `722506f642b951a0833a6db931a981749fe581dc69b42541bff741557579ea31` |
+| Codex Twin 国内版 · win-x64 | [官网下载](https://dl.codextwin.com/downloads/domestic/Codex-Twin-Domestic-0.6.5-software-free.20261104.2-win-x64.exe) | [GitHub 下载](https://github.com/haidongxu2000/codex-twin-downloads/releases/download/v0.6.5-software-free.20261104.2/Codex-Twin-Domestic-0.6.5-software-free.20261104.2-win-x64.exe) | `bf2e2808609c473eed958a91d3f0bed6a82f4a8339f188ffd18ba50f5d0305c5` |
+| Codex Twin 国内版 · mac-arm64 | [官网下载](https://dl.codextwin.com/downloads/domestic/Codex-Twin-Domestic-0.6.5-software-free.20261104.2-mac-arm64.dmg) | [GitHub 下载](https://github.com/haidongxu2000/codex-twin-downloads/releases/download/v0.6.5-software-free.20261104.2/Codex-Twin-Domestic-0.6.5-software-free.20261104.2-mac-arm64.dmg) | `a03172646b955b98247c259578094150084f9f84632c1fa3bf1b8ad72a339cb7` |
+| Codex Twin 国内版 · mac-x64 | [官网下载](https://dl.codextwin.com/downloads/domestic/Codex-Twin-Domestic-0.6.5-software-free.20261104.2-mac-x64.dmg) | [GitHub 下载](https://github.com/haidongxu2000/codex-twin-downloads/releases/download/v0.6.5-software-free.20261104.2/Codex-Twin-Domestic-0.6.5-software-free.20261104.2-mac-x64.dmg) | `ba6b4879c443232803b963600c0857bff4559c804329b06ab53db107e04f821c` |
+| Codex Twin 国内版 · linux-x64 | [官网下载](https://dl.codextwin.com/downloads/domestic/Codex-Twin-Domestic-0.6.5-software-free.20261104.2-linux-x86_64.AppImage) | [GitHub 下载](https://github.com/haidongxu2000/codex-twin-downloads/releases/download/v0.6.5-software-free.20261104.2/Codex-Twin-Domestic-0.6.5-software-free.20261104.2-linux-x86_64.AppImage) | `5f95a60f5b24b4b91313a0f08bb9887cca7c3fef098c2da9787041d8570b0593` |
 
-[官网](https://codextwin.com/) · [发布说明](https://github.com/haidongxu2000/codex-twin-downloads/releases/tag/v0.6.4-software-free.20261102.16) · [SHA256SUMS](https://github.com/haidongxu2000/codex-twin-downloads/releases/download/v0.6.4-software-free.20261102.16/SHA256SUMS.txt)
+[官网](https://codextwin.com/) · [发布说明](https://github.com/haidongxu2000/codex-twin-downloads/releases/tag/v0.6.5-software-free.20261104.2) · [SHA256SUMS](https://github.com/haidongxu2000/codex-twin-downloads/releases/download/v0.6.5-software-free.20261104.2/SHA256SUMS.txt)
 
-Windows 和 Linux 在用户电脑构建；macOS 两种芯片由 GitHub Actions 构建。应用源码保存在私有仓库，本公开仓库只提供安装包、校验值和说明。
+Windows 和 Linux 在用户电脑构建；macOS 两种芯片由 GitHub Actions 构建。应用源码保存在私有仓库，公开仓库只提供安装包、校验值和脱敏构建审计。构建及自动检查通过不等于全部平台均已完成真机体验或真实 TUN 吞吐验收。
 <!-- END codex-downloads-current-release -->
 
 <details><summary>历史版本说明</summary>
